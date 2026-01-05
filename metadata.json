@@ -1,0 +1,5 @@
+{
+  "name": "Hypothesis Explorer (+Real data)",
+  "description": "A visualization tool for investigating scalable projects under high uncertainty using a graph-based state model.",
+  "requestFramePermissions": []
+}
